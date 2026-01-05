@@ -1,0 +1,9 @@
+
+{
+  "name": "Olipop Cinematic Experience",
+  "description": "A high-end, parallax-driven product experience with AI video generation integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
